@@ -1,0 +1,12 @@
+.code-block-page {
+    padding: 20px;
+    text-align: center;
+}
+
+.code-block-page pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    text-align: left;
+}
